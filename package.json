@@ -174,7 +174,7 @@
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.6.0",
+    "@biomejs/biome": "^2.6.8",
     "@codecov/webpack-plugin": "^0.0.1-beta.4",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.10",
     "@sentry/jest-environment": "^4.0.0",
